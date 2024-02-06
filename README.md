@@ -3,6 +3,9 @@
 <!--
 **Dia-Cer0/Dia-Cer0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+SKILLS:
+HTML/CSS, Git, GitHub, VSCode, Figma, and JavaScript
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
